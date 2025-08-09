@@ -10,7 +10,7 @@
 
 ### Team Members
 - Team Lead:Niya fathima - collge of engineering Chengannur
-- Member 2: Gatha S - collge of engineering Chengannur
+- Member 2: Gatha S - college of engineering Chengannur
 
 
 ### Project Description
